@@ -31,6 +31,14 @@ About Me:<br>🔧 I'm currently working on<br><br>Building my career in software
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SUM2046&theme=radical&no-frame=true&column=8)
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SUM2046/SUM2046/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SUM2046/SUM2046/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/SUM2046/SUM2046/output/github-snake.svg" />
+  </picture>
+</div>
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
