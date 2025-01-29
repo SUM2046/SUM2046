@@ -109,7 +109,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SUM2046&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=true" /> </p>
   <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SUM2046&theme=shadow_blue&hide_border=false" /></p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SUM2046&theme=shadow_blue&hide_border=true" /></p>
   <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUM2046&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </p>
