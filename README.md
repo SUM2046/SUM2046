@@ -5,7 +5,7 @@
 <h6 align="center">Hello👋, I'm Sandithi Mathangaweera</h6>
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/SUM2046/count.svg?" />
+  <img src="https://profile-counter.glitch.me/Sandithi/count.svg?" />
 </div>
 
 ---
