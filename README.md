@@ -1,6 +1,4 @@
-<div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
+
 
 <h6 align="center">Hello👋, I'm Sandithi Mathangaweera</h6>
 
